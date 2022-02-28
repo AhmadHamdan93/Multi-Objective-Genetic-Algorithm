@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\bin\Debug\MOGA.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\bin\Debug\MOGA.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\bin\Debug\MOGA.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\obj\Debug\MOGA.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\obj\Debug\MOGA.Form1.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\obj\Debug\MOGA.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\obj\Debug\MOGA.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\obj\Debug\MOGA.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\MOGA\MOGA\obj\Debug\MOGA.pdb
